@@ -6,6 +6,6 @@ const port = process.env.PORT || 3000;
 app.listen(port, () => {
     console.log(`=============================`)
     console.log(`Server is online!`)
-    console.log(`Port: ${port}`)
+    console.log(`locate on: http://localhost:${port}`)
     console.log(`=============================`)
 });
