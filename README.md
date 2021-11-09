@@ -6,7 +6,7 @@ What uses this Template
 ---
 This Template uses:
 + Express
-+ JavaScript
++ Pug
 
 What Is in this Code
 ---
