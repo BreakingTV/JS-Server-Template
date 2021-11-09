@@ -1,9 +1,11 @@
 # JS Server Template with Express
+
 The Template for Creating your JS Server Easy
- What uses this Template
- ---
+
+What uses this Template
+---
 This Template uses:
-+ express
++ Express
 + JavaScript
 
 What Is in this Code
